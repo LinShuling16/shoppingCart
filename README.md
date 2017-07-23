@@ -8,6 +8,6 @@
 - filter 过滤器的使用
   1.局部过滤器：当前vue的实例才能使用。
   2.全局过滤器：所有页面都能使用。
-** 注意： **
+### 注意：
  - 在真正的页面开发中，像商品金额带有小数位的数据，不应该由前端进行格式化，而是由后端直接返回。因为前端JS有精度丢失。
- - 本项目开发时使用sublime编辑器，需要安装sublimeServer。[具体参考][http://www.cnblogs.com/LinSL/p/7213818.html]
+ - 本项目开发时使用sublime编辑器，需要安装sublimeServer。具体参考：http://www.cnblogs.com/LinSL/p/7213818.html
